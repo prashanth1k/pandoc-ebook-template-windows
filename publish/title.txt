@@ -1,0 +1,5 @@
+---
+title: The Greatest eBook Ever
+author: Prashanth Krishnamurthy
+rights: (c) Prashanth Krishnamurthy, techformist.com
+...
