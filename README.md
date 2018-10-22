@@ -13,7 +13,7 @@ Install and Run
 
 1. Install pandoc and dependencies.
    
-   * [pandoc] (https://github.com/jgm/pandoc/releases). This is the utility to convert anything to everything.
+   * [pandoc](https://github.com/jgm/pandoc/releases). This is the utility to convert anything to everything.
    * [MikTeX](https://miktex.org/download) Latex library that helps pandoc convert markdown to PDF. Alternatively install HTML5 renderer library from [wkhtmltopdf] https://wkhtmltopdf.org/downloads.html)
 
 2. Optionally install [Git](https://git-scm.com/download/win). This will make it easier to manage your markdown files. We don't quite need it for this example
